@@ -3,9 +3,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "Solution",
+    name: "LeetCodeSolution",
     products: [
-        .library(name: "Solution", targets: ["Solution"]),
+        .library(name: "LeetCodeSolution", targets: ["Solution"]),
     ],
     dependencies: [
     ],
